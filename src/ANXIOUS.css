@@ -1,0 +1,123 @@
+.demo{
+  text-align: right;
+  color: aqua;
+  font-size:30px;
+  padding-top:0px;
+}
+img{
+border-radius: 25px;
+}
+.box{
+background-color: rgb(197, 11, 11);
+height:180px;
+width:680px;
+border-radius: 50px;
+margin-top: 65px;
+margin-left: 480px;
+opacity: 1.0;
+}
+.box1{
+background-color: rgb(190, 0, 0);
+height:180px;
+width:680px;
+border-radius: 50px;
+margin-top: -25px;
+margin-left: 480px;
+}
+.me1{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: rgb(0, 0, 0);
+float: right;
+margin-top: -10px;
+}
+.me2{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: rgb(0, 0, 0);
+float: right;
+margin-top: -90px;
+}
+.bottom-right2 {
+position: absolute;
+bottom: 345px;
+left: 590px;
+font-weight: bold;
+color: rgb(255, 255, 255);
+font-family:'Trebuchet MS','Lucida Sans Unicode','Lucida Grande', 'Lucida Sans', Arial, sans-serif;font-size: 42px;
+font-size: 13px;
+}
+.bottom-right3 {
+position: absolute;
+bottom: 345px;
+color:rgb(249, 249, 249);
+left: 792px;
+font-weight: bold;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;font-size: 42px;   
+font-size: 13px;
+}
+.bottom-right4 {
+position: absolute;
+bottom: 345px;
+left: 999px;
+font-weight: bold;
+color: white;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;font-size: 42px;
+font-size: 13px;
+}
+.ddemo {       
+padding: 50px;
+background-position: left top, right top;
+background-size: 500px 600px,300px 300px;
+background-repeat: no-repeat, no-repeat;
+ background-image:url("https://i.pinimg.com/736x/c1/b7/cd/c1b7cdd98f9d1964acef3a9a93baa9d4.jpg");
+ height: 510px;
+ width: 1125px;   
+}
+div.gallery4{
+margin-left:-410px;
+padding-top: 23px;
+width:250px;
+}
+div.gallery4:hover {
+  opacity: 0.8;
+  }
+div.gallery4 img{
+width:180PX;
+height: 120px;
+}
+div.gallery{
+margin-left:-410px;
+padding-top: 22px;
+width:250px;
+}
+div.gallery:hover {
+  opacity: 0.8;
+  }
+div.gallery img{
+width:180PX;
+height: 120px;
+}
+div.gallery1{
+margin-left:410px;
+width:250px;
+padding-top: 22px;
+margin-top: -145px;
+}
+div.gallery1:hover {
+  opacity: 0.8;
+  }
+div.gallery1 img{
+width:180PX;
+height: 120px;
+}
+div.gallery2{
+  padding-top: 22px;
+  width:250px;
+  margin-top: -144px;
+  }
+  div.gallery2 img{
+  width:180PX;
+  height: 120px;
+}
+div.gallery2:hover {
+  opacity: 0.8;
+  }
