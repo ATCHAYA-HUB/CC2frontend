@@ -1,0 +1,44 @@
+.boxd{
+    background-color: rgba(0, 0, 0, 0.3);;
+    width: 600px;
+    height: 400px;
+    margin-top: 50px;
+    padding-top: 1px;
+    margin-left: 320px;
+}
+.delh1{
+    padding-top: 20px;
+    margin-left: 400px;
+    margin-top: 0px;
+    font-size: 38px;
+}
+::placeholder{
+    color: black;
+}
+.lab{
+
+    font-size:"20px";
+}
+.qw1{
+    color:"aliceblue";
+    background-color:"black";
+     height :"50px";
+     width:"200px";
+     margin-top:"15px";
+     border-radius:"5px";
+    }
+.qw{
+    margin-top:"20px";
+     background-image:url("https://img.freepik.com/premium-vector/relatives-visiting-handicapped-grandfather-rehabilitation-clinic-happy-young-couple-children-meeting-granny-talking-doctor-hospital-ward-positive-medical-forecast-sick-retired-patient_189557-390.jpg?w=2000");
+     background-size: cover;
+     height: 600px;
+     background-repeat: no-repeat;
+     margin-top: -20px;
+}
+.delsubmit{
+    height :"30px";width:"120px";
+     border-radius:"5px";
+     color:"white";
+     background-color:"black";
+     margin-bottom:"10px";
+}

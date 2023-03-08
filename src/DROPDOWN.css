@@ -1,0 +1,17 @@
+.drop{
+  height: 250px;
+  margin-top: 50px;
+  width: 600px;
+  margin-left: 300px;
+  border: 2px solid black;border-radius: 10px;
+
+}
+body{
+    background-size: 1250px 600px;
+}
+.h{
+  width: 500px;
+  margin-left: 50px;
+  margin-top: 80px;
+  border: 1px solid black;
+}

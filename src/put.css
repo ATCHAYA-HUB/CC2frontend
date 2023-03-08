@@ -1,0 +1,30 @@
+.putbox{
+    background-color:rgb(255, 255, 255);
+    width: 600px;
+    height: 530px;
+    padding-top:40px;
+    padding-bottom: 40px;
+    padding-right: 22147650px;
+    margin-left: 740px;
+}
+h1{
+    margin-top: -20px;
+}
+::placeholder{
+    color: rgb(0, 0, 0);
+}
+.putrow{
+    padding-top: 10px;
+    text-align: center;
+    font-size: 17px;
+}
+.putbody{
+    background-size: 750px 600px;
+    background-image: url("C:\Users\atcha\Downloads\psx_20200712_120701.webp") ;
+    background-repeat: no-repeat;
+}
+.putsubmit{
+    border-color: aliceblue;
+    background-color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+}
